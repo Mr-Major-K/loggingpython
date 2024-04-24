@@ -4,13 +4,13 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Projektinformationen
-project = 'Mein Projekt'
-copyright = '2024, Mein Name'
-author = 'Mein Name'
+project = 'loggingpython'
+copyright = '2024, Mr-Major-K'
+author = 'Mr-Major-K'
 
 # Version
-version = '0.1'
-release = '0.1.0'
+version = '1.4'
+release = '1.4.2'
 
 # Sprache
 language = 'de'
